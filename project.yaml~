@@ -1,6 +1,6 @@
 scale: 1
 metatile: 2
-name: "OSM no address"
+name: "OpenStreetMap Carto"
 description: "A faithful reimplementation of the standard OpenStreetMap style"
 bounds: &world
   - -180
