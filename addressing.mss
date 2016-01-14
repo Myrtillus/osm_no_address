@@ -6,6 +6,7 @@
   }
 }
 
+/*
 #housenumbers {
   [zoom >= 17] {
     text-name: "[addr:housenumber]";
@@ -45,3 +46,4 @@
     text-placement: interior;
   }
 }
+*/

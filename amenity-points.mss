@@ -1094,6 +1094,9 @@
 }
 
 /* Note that .text is also used in water.mss */
+
+/*
+
 .text-low-zoom[zoom < 10],
 .text[zoom >= 10] {
   [feature = 'place_island'][zoom >= 7][way_pixels > 3000][way_pixels < 800000],
@@ -1532,7 +1535,7 @@
       [feature = 'landuse_cemetery'],
       [feature = 'amenity_grave_yard'] {
         text-fill: darken(@cemetery, 50%);
-        text-halo-radius: 1.5; /* extra halo needed to overpower the cemetery polygon pattern */
+        text-halo-radius: 1.5; 
       }
       [feature = 'landuse_residential'] {
         text-fill: darken(@residential, 50%);
@@ -1576,7 +1579,7 @@
       [feature = 'tourism_theme_park'],
       [feature = 'tourism_zoo'] {
         text-fill: @tourism;
-        text-face-name: @bold-fonts; /*rendered bold to improve visibility since theme parks tend to have crowded backgrounds*/
+        text-face-name: @bold-fonts; 
       }
       [feature = 'tourism_attraction'] {
         text-fill: #660033;
@@ -2093,6 +2096,9 @@
     text-wrap-width: @standard-wrap-width;
   }
 }
+
+*/
+
 
 #trees [zoom >= 16] {
   ::canopy {

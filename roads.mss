@@ -2578,6 +2578,9 @@ tertiary is rendered from z10 and is not included in osm_planet_roads. */
   }
 }
 
+
+/*
+
 #roads-text-ref-low-zoom[zoom < 13] {
   [highway = 'motorway'][zoom >= 10],
   [highway = 'trunk'][zoom >= 11],
@@ -2971,6 +2974,9 @@ tertiary is rendered from z10 and is not included in osm_planet_roads. */
     }
   }
 }
+
+
+*/
 
 .directions::directions {
   [zoom >= 16] {
