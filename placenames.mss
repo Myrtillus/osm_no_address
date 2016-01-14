@@ -39,6 +39,7 @@
   }
 }
 
+/*
 #placenames-medium::high-importance {
   [category = 1][zoom < 14] {
     [zoom >= 3][score >= 5000000],
@@ -123,6 +124,7 @@
   }
 }
 
+
 #placenames-small::suburb {
   [place = 'suburb'][zoom >= 12][zoom < 17] {
     text-name: "[name]";
@@ -195,3 +197,5 @@
     }
   }
 }
+
+*/
