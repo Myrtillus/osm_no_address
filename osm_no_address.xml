@@ -27,34 +27,27 @@
   <Font face-name="Arundina Sans Regular"/>
   <Font face-name="Padauk Regular"/>
   <Font face-name="Khmer OS Metal Chrieng Regular"/>
-  <Font face-name="Mukti Narrow Regular"/>
   <Font face-name="gargi Medium"/>
   <Font face-name="TSCu_Paranar Regular"/>
   <Font face-name="Tibetan Machine Uni Regular"/>
   <Font face-name="Mallige Normal"/>
   <Font face-name="Droid Sans Fallback Regular"/>
-  <Font face-name="Unifont Medium"/>
-  <Font face-name="unifont Medium"/>
 </FontSet>
 <FontSet name="fontset-1">
   <Font face-name="DejaVu Sans Book"/>
   <Font face-name="Arundina Sans Regular"/>
   <Font face-name="Padauk Regular"/>
   <Font face-name="Khmer OS Metal Chrieng Regular"/>
-  <Font face-name="Mukti Narrow Regular"/>
   <Font face-name="gargi Medium"/>
   <Font face-name="TSCu_Paranar Regular"/>
   <Font face-name="Tibetan Machine Uni Regular"/>
   <Font face-name="Mallige Normal"/>
   <Font face-name="Droid Sans Fallback Regular"/>
-  <Font face-name="Unifont Medium"/>
-  <Font face-name="unifont Medium"/>
 </FontSet>
 <FontSet name="fontset-2">
   <Font face-name="DejaVu Sans Bold"/>
   <Font face-name="Arundina Sans Bold"/>
   <Font face-name="Padauk Bold"/>
-  <Font face-name="Mukti Narrow Bold"/>
   <Font face-name="TSCu_Paranar Bold"/>
   <Font face-name="Mallige Bold"/>
   <Font face-name="DejaVu Sans Book"/>
@@ -67,8 +60,6 @@
   <Font face-name="Tibetan Machine Uni Regular"/>
   <Font face-name="Mallige Normal"/>
   <Font face-name="Droid Sans Fallback Regular"/>
-  <Font face-name="Unifont Medium"/>
-  <Font face-name="unifont Medium"/>
 </FontSet>
 <Style name="world" filter-mode="first">
   <Rule>
